@@ -1,9 +1,22 @@
 Демяник Александра
 Фронтенд разработчик
 
-Навыки и умения
-Фронтенд ReactJS TypeScript Redux Next js RTK Webpack ESlint
-Бекенд  Node.js NestJS Postgres
+## Навыки и умения  
+
+### 🖥️ Фронтенд  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+![RTK Query](https://img.shields.io/badge/RTK%20Query-764ABC?style=flat&logo=redux&logoColor=white)  
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)  
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)  
+
+### 🌐 Бекенд  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
+
 
 Опыт
 - 2023 - 2024
